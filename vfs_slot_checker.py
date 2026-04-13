@@ -13,7 +13,7 @@ FROM_WHATSAPP = "whatsapp:+14155238886"
 TO_WHATSAPP   = "whatsapp:+994554400288"
 
 VFS_URL = "https://www.vfsglobal.com/italy/azerbaijan/schedule-an-appointment.html"
-CHECK_INTERVAL = 180
+CHECK_INTERVAL = 5
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
